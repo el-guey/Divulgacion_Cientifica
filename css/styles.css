@@ -1,5 +1,5 @@
-/* Estilos CSS para el navbar */
-.navbar {
+
+ .navbar {
     overflow: hidden;
     background-color: #333;
     font-family: Arial, sans-serif;
@@ -59,3 +59,21 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+  .social-media {
+    
+    background-color: rgb(168, 197, 248);
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    
+  } 
+  
+  .articulo, form {
+    
+    background-color: #f2f2f2;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  } 
+
