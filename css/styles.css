@@ -1,5 +1,6 @@
-
- .navbar {
+@import url('https://fonts.googleapis.com/css2?family=Fenix&display=swap');
+ 
+.navbar {
     overflow: hidden;
     background-color: #333;
     font-family: Arial, sans-serif;
@@ -59,7 +60,16 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+  
+  .articulo {
+    
+    font-family: 'Fenix', serif;
+    /* font-size: 22px; */
+    font-weight: bold;
 
+  }
+  
+  
   .social-media {
     
     background-color: rgb(168, 197, 248);
@@ -77,3 +87,5 @@
     margin-bottom: 20px;
   } 
 
+
+  
