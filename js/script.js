@@ -1,3 +1,5 @@
+/* FORMULARIO + VALIDACIÓN  */
+
 function validarFormulario1() {
   var nombre = document.forms["formulario1"]["nombre"].value;
   if (nombre == "") {
@@ -27,3 +29,6 @@ function validarFormulario2() {
     return false;
   }
 }
+
+/* EVENT LISTENER PARA LAS CAJAS DE LOS ARTÍCULOS PERIODÍSTICOS */
+
