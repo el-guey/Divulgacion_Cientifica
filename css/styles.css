@@ -26,6 +26,8 @@ a{
 }
 nav{
   height: 10%;
+  width: 98%;
+  margin: auto;
 }
 .navbar {
     overflow: hidden;
@@ -142,7 +144,7 @@ nav{
   background-color:#df2020 ;
   color: #ddd;
 }
-.read-more:hover{
+.read-more:hover,input[type=submit]:hover,input[type=reset]:hover{
   cursor: pointer;
   background-color:#ddd; 
   color: #df2020;  
@@ -166,6 +168,35 @@ footer > div > a > img:hover{
 section{
   text-align: center;
   height: 50%;
+}
+/* .caja-formulario{
+  posi
+} */
+.formulario{
+  background-color: rgba(51,51,51,0.8);
+  border: #df2020 1px solid ;
+  text-align: center;
+  margin: auto;
+  width: 60%;
+}
+
+input[type=text],input[type=email],textarea{
+  width: 95%;
+  border-radius: 4px;
+  margin: auto;
+  display: block;
+}
+label{
+  text-align: left;
+  border-radius: 4px;
+  margin: 5px ;
+  display: block;
+}
+input[type=reset], input[type=submit]{
+  margin: 10px;
+  padding: 10px;
+  background-color:#df2020 ;
+  color: #ddd;
 }
 
 /*Animatións*/
@@ -227,6 +258,27 @@ section{
     max-width: 100%;
     height: auto;
   }
+  .formulario{
+    background-color: rgba(51,51,51,0.8);
+    border: #df2020 1px solid ;
+    text-align: center;
+    margin: auto;
+    width: 98%;
+  }
+  
+  input[type=text],input[type=email],textarea{
+    width: 95%;
+    border-radius: 4px;
+    margin: auto;
+    display: block;
+  }
+  label{
+    text-align: left;
+    border-radius: 4px;
+    margin: 5px ;
+    display: block;
+  }
+  
 
 }
 

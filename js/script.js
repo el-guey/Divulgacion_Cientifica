@@ -29,6 +29,11 @@ function validarFormulario2() {
     return false;
   }
 }
+// Traer los labels para las func
+function validarFormulario1(){
+  validarFormulario1();
+  validarFormulario2();
+}
 
 /* EVENT LISTENER PARA LAS CAJAS DE LOS ARTÍCULOS PERIODÍSTICOS */
 
