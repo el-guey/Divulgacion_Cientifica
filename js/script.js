@@ -1,4 +1,4 @@
-/* FORMULARIO + VALIDACIÓN  */
+// FORMULARIO + VALIDACIÓN 
 
 function validarFormulario1() {
   var nombre = document.forms["formulario1"]["nombre"].value;
@@ -35,5 +35,5 @@ function validarFormulario1(){
   validarFormulario2();
 }
 
-/* EVENT LISTENER PARA LAS CAJAS DE LOS ARTÍCULOS PERIODÍSTICOS */
+
 
