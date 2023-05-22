@@ -225,6 +225,15 @@ a{
     width: 16px;
   }
 
+  .city {
+    margin-top: 0px;
+  }
+
+  .temp {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
   .weather-icon {
     width: 170px;
     margin-top: 30px;
@@ -233,6 +242,7 @@ a{
   weather h1{
     font-size: 80px;
     font-weight: 500;
+
   }
 
   weather h2{
@@ -240,6 +250,8 @@ a{
     font-weight: 400;
     margin-top: -10px;
   }
+
+
 
   .details {
     display: flex;
@@ -253,19 +265,27 @@ a{
     display: flex;
     align-items: center;
     text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px; 
   }
 
   .col img {
 
     width: 40px;
     margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 
   .humidity, .wind {
+    padding-bottom: 0px;
     font-size: 28px ;
-    margin-top: -50px;
+    margin-top: 0px;
     
+  }
 
+  .humidity p, .wind p {
+    align-items: baseline;
   }
 
   .weather {
