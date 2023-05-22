@@ -104,10 +104,13 @@ a{
     width: 20%;
     margin-bottom: 20px;
   }
+
+  
   /* Estilo para que la imagen no sobresalga de la tarjeta contenedora   */
   .contenedor-articulos> a > img{
     max-width: 100%;
-    height: 50%;
+    height: 60%;
+    width: 100%;
   }
   section{
     text-align: center;
@@ -136,7 +139,7 @@ a{
     font-size: 1.5em;
   }
   .articulo> img{
-    width: 50%;
+    width: 30%;
     height: auto;
   }
   .contenedor-articulos .read-more, .read-more {
@@ -424,8 +427,8 @@ width: 100%;
   }
 }
 /* Tablets */
-@media screen and (max-width:1024px) and (min-width:4
-721px){
+@media screen and (max-width:1024px) and (min-width:
+ 721px){
   body{
     min-height: 100%;
     /* background-color: rgba(51,51,51,0.8); */
