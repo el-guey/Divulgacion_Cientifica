@@ -1,8 +1,12 @@
 # CODO A CODO - FULL STACK PYTHON
 
 Este es el repositorio para la entrega del TPO realizado por Martin Osuna y *nombre completo de Emma* para el curso full stack python de CODO A CODO. 
-Este proyecto cuenta con las siguientes secciones de la web:
----------
+
+
+# LINK A LA WEB https://el-guey.github.io/CaC-FullStack-Python/index.html
+
+----
+# El proyecto cuenta con las siguientes secciones:
 # INICIO
 
 Sección principal de la página. Cuenta con una animación para el título, un mensaje de bienvenida y en el footer las direcciones de redes sociales (que llevan al Facebook e Instagram de la NASA, a modo de prueba) que también tienen animaciones hechas en CSS cuando se le acerca el mouse (hover).
