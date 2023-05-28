@@ -31,5 +31,7 @@ Cada una de las secciones de artículos contendrá una caja (maquetada con flex 
 Sección de información extra, cuenta primero un html llamado *Quienes Somos*. Aquí se nombran a los miembros del equipo y el propósito de este TPO.
 Por último, la sección llamada *Contacto*. Contiene un formulario de contacto, que se validará con Javascript para que los datos ingresados sean de tipo correctos.
 
-
+# Comentarios
 Tener en cuenta que la web en general tiene 2 puntos de corte para dispositivos móviles (mostrado en el archivo styles) por medio de MediaQueries.
+La página principal cuenta con dos animaciones de texto realizadas en css, para el titulo de la pagina y el saludo de bienvenida.
+
