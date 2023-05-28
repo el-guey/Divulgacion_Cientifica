@@ -1,6 +1,6 @@
 # CODO A CODO - FULL STACK PYTHON
 
-Este es el repositorio para la entrega del TPO realizado por Martin Osuna y *nombre completo de Emma* para el curso full stack python de CODO A CODO. 
+Este es el repositorio para la entrega del TPO realizado por Martin Osuna y Nestor Emmanuel Gonzalez para el curso full stack python de CODO A CODO, comisión 23024 del primer semestre del 2023. 
 
 
 # LINK A LA WEB https://el-guey.github.io/CaC-FullStack-Python/index.html
