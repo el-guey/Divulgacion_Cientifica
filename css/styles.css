@@ -112,6 +112,11 @@ a{
     height: 60%;
     width: 100%;
   }
+  .contenedor-articulos> iframe{
+    max-width: 100%;
+    height: 60%;
+    width: 100%;
+  }
   section{
     text-align: center;
     height: 50%;
