@@ -94,6 +94,8 @@ a{
     padding: 10px;
     /*border: 1px solid #ccc;*/
     margin-bottom: 20px;
+    justify-content: center;
+    
   }
   .contenedor-articulos {
     border: 1px solid #ccc;
@@ -102,6 +104,8 @@ a{
     background-color: #333;
     box-sizing: content-box;
     width: 20%;
+    
+    
     /* margin-bottom: 20px; */
   }
 
