@@ -125,6 +125,13 @@ a{
     text-align: center;
     height: 50%;
   }
+  section >p{
+    text-align: justify;
+    width: 80%;
+    margin: auto;
+    font-weight: bolder;
+
+  }
   .contenedor-articulos, h2 {
     font-size: 22px;
     margin-bottom: 10px;
@@ -158,6 +165,7 @@ a{
     padding: 10px 20px;
     border-radius: 3px;
     text-decoration: none;
+    margin: 5px;
   }
   .contenedor-articulos .read-more:hover, input[type=reset]:hover, input[type=submit]:hover {
       background-color: #0056b3;
@@ -496,13 +504,13 @@ width: 100%;
     margin-top: 30px;
   }
 
-  weather h1{
+  .weather h1{
     font-size: 80px;
     font-weight: 500;
 
   }
 
-  weather h2{
+  .weather h2{
     font-size: 45px;
     font-weight: 400;
     margin-top: -10px;
@@ -556,11 +564,14 @@ width: 100%;
     margin-top: 10px;
     display: none;
   }
-  .navbar a, .dropbtn, .dropdown{
-    font-size: 14px;
-    padding: 10px 12px;
-  } 
-}
+  .navbar a,.dropbtn .dropdown,{
+    font-size: 12px;
+    padding: 5px 6px;
+    font-weight: normal;
+  }
+  
+} 
+
 /* Tablets */
 @media screen and (max-width:1024px) and (min-width:
  721px){

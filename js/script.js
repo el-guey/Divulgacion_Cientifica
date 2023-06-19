@@ -44,6 +44,6 @@ formulario.addEventListener("submit",e=>{
     error.innerHTML = msjAlerta;
   }
   else{
-    msjAlerta ="";
+    msjAlerta ="Gracias por contactarse con nosotros &#128525";
   }
 })
