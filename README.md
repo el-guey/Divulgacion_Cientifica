@@ -2,8 +2,7 @@
 
 Este es el repositorio para la entrega del TPO realizado por Martin Osuna y Nestor Emmanuel Gonzalez para el curso full stack python de CODO A CODO, comisión 23024 del primer semestre del 2023. 
 
-
-# LINK A LA WEB https://el-guey.github.io/CaC-FullStack-Python/index.html
+# LINK A LA WEB https://el-guey.github.io/Divulgacion_Cientifica/
 
 ----
 # El proyecto cuenta con las siguientes secciones:
